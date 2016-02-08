@@ -1,4 +1,4 @@
-See Wiki For more...
+See Wiki For more... https://github.com/ToniCreswell/Deep_Learning-/wiki
 
 This repo (will) contain(s) build blocks for deep learning.
 
