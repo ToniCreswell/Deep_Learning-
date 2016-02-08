@@ -1,6 +1,15 @@
-This is a sparse fully connected  denoising auto-encoder
+See Wiki For more...
 
-Using the code:
+This repo (will) contain(s) build blocks for deep learning.
+
+Current Contributions:
+sAE1.py - Spase Denoising Auto-Encoder (sAE)
+aeTrainer - Function to train the sAE
+sAE_example.ipynb - ipython notebook to show how the code can be used
+requirements.txt - libs used, tho I suggest using the instructions below to install them
+
+
+Using the sAE code:
 
 Download data from:
 http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz
