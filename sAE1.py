@@ -1,4 +1,7 @@
-#A copy of the Auto-encoder class from sparseAE3.py
+#A Denoising Sparse Autoencoder class using THEANO
+#Class also has the encoder, decoder and getUpdate function to use for training
+#The decoding weights are NOT transposed versions of the encoding weights
+
 
 from theano.tensor.shared_randomstreams import RandomStreams
 from theano import tensor as T 
